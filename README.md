@@ -1,5 +1,5 @@
 ﻿# Sistema de Inventario con Árbol Binario
- # Descripción
+ ## Descripción
 
 Este proyecto es una aplicación de consola desarrollada en Java para gestionar un inventario de productos utilizando la estructura de datos Árbol Binario de Búsqueda (ABB).
 
@@ -7,7 +7,7 @@ El programa permite registrar productos, mostrar el inventario ordenado por ID y
 
 El proyecto está dividido estrictamente en tres clases, cada una con una función específica.
 
-# Tecnologías utilizadas
+## Tecnologías utilizadas
 Java
 Visual Studio Code
 Git
@@ -21,7 +21,7 @@ ArbolInventario/
 ├── ArbolInventario.java
 ├── Main.java
 └── README.md
-# Clases del proyecto
+## Clases del proyecto
 1. Producto.java
 
 Representa el nodo del árbol.
@@ -61,7 +61,7 @@ Contiene el menú de opciones:
 2. Mostrar Inventario
 3. Buscar Producto
 0. Salir
-⚙️ Funcionamiento
+## Funcionamiento
 Registrar producto
 
 El usuario introduce:
@@ -119,7 +119,7 @@ Al seleccionar Mostrar Inventario, el recorrido Inorden mostrará:
 ID: 10 - Leche
 ID: 20 - Arroz
 ID: 30 - Pan
-# Objetivo
+### Objetivo
 
 El objetivo del proyecto es aplicar los conceptos de:
 
